@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Koolitöö nr9</title>
+<style>
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 5px;
+  text-align: left;    
+}
+</style>
+</head>
+<body>
+
+<h1>Lenovo sülearvutid</h1>
+<p>Suvaline numbrijada 192875</p>
+
+<h3>Lenovo ThinkPadi seeriate kirjeldus</h3>
+<table style="width:50%">
+  <tr>
+    <th>Seeria</th>
+    <th>Kirjeldus</th>
+  </tr>
+  <tr>
+    <td>E-seeria sülearvutid</td>
+    <td> Soodsad ja lihtsamatest materjalidest</td>
+      </tr>
+  <tr>
+    <td>L-seeria sülearvutid</td>
+    <td>Rohkem ühendamisvõimalusi ja paremad materjalid</td>
+  </tr>
+ <tr>
+    <td>T- ja X-seeria sülearvutid </td>
+    <td>Tipp-mudelid, kus kasutatakse parimaid materjale</td>
+  </tr>
+ <tr>
+    <td>P-seeria sülearvutid</td>
+    <td>Mobiilsed tööjaamad, pakuvad parimat võimsust graafikatöödeks</td>
+  </tr>
+</table>
+
+<p><a href="https://flex.ee/sulearvutid/arikasutajale/thinkpad?gclid=EAIaIQobChMImJ6VyKvM5QIVDKWaCh0-WwCXEAAYAiAAEgL_KPD_BwE">Viide sisu algallikale: FLEX sülearvutikeskus</a></p>
+
+<p><a href="http://www.ttu.ee">Koolitöö</a></p>
+
+<p><a href="https://www.lenovo.com/my/en/laptops/thinkpad/thinkpad-t-series/c/thinkpad-t-series">Viide pildi algallikale: Lenovo koduleht</a></p>
+
+<img src="https://www.lenovo.com/medias/lenovo-laptop-think-t-series-hero2.png?context=bWFzdGVyfHJvb3R8MTE1NTA5fGltYWdlL3BuZ3xoODUvaDU3Lzk2MTgzMzU5MjQyNTQucG5nfGU1NWIwZjA2OGExN2UwODVjYTg4YWVlOGI4YTJkMTY1MWNlYWM2NDRjOWVjMGEyNjczZGYwYmYzOTQ1ZmNiMWU" alt="ThinkPad-id" style="width:768px;height:512px;">
+
+</body>
+</html>
